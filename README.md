@@ -24,15 +24,15 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+yarn
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
-
+<!-- 
 ### Type-Check, Compile and Minify for Production
 
 ```sh
@@ -56,4 +56,4 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 
 ```sh
 npm run lint
-```
+``` -->
