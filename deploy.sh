@@ -14,6 +14,6 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:<USERNAME>/vue-roman-number-translate/.git main:gh-pages
+git push -f git@github.com:marcusjribeiro/vue-roman-number-translate/.git main:gh-pages
 
 cd -
