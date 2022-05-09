@@ -1,0 +1,1 @@
+import{o as n,c as a}from"./index.e10dafcb.js";var _=(e,o)=>{const r=e.__vccOpts||e;for(const[t,c]of o)r[t]=c;return r};const s={};function f(e,o){return n(),a("div",null,"Soon")}var m=_(s,[["render",f]]);export{m as default};
